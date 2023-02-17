@@ -14,17 +14,17 @@ Chart.js
 HTML
 CSS
 
-Getting Started
+# Getting Started
 To use this tool, simply clone the repository and run the following commands:
 npm install
 npm start
 
 This will start the development server and open the tool in your default web browser.
 
-Contributing
+# Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-License
+# License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 # Getting Started with Create React App
