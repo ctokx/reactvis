@@ -1,0 +1,40 @@
+input {
+  height: 40px;
+  background-color: transparent;
+  border: 0.1px solid gray;
+}
+button {
+  background: transparent;
+  border: 1px solid rgba(128, 128, 128, 0.988);
+  border-left: 0px;
+}
+.charts {
+  background-color: azure;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  height: 100vh;
+}
+.button_typ {
+  height: 40px;
+  background-color: transparent;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.button_typ:hover {
+  background-color: rgba(22, 114, 206, 0.313);
+}
+.add_button {
+  height: 50px;
+  width: 150px;
+  background-color: transparent;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.add_button:hover {
+  background-color: rgba(22, 114, 206, 0.313);
+}
+select {
+  height: 40px;
+  border-radius: 10px;
+  background-color: transparent;
+  width: 100px;
+}
