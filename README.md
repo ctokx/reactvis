@@ -1,14 +1,14 @@
 Basic Data Visualization Tool
 This is a simple data visualization tool built using ReactJS. It allows users to enter numerical data and converts it into six different types of charts, including line charts, bar charts, pie charts, scatter plots, area charts, and bubble charts.
 
-#Features
+# Features
 Simple user interface for entering numerical data and selecting chart types
 Six different chart types to choose from
 Ability to customize chart colors and labels
 Automatic scaling of chart axes based on input data
 Responsive design for use on desktop and mobile devices
 
-#Technologies Used
+# Technologies Used
 ReactJS
 Chart.js
 HTML
